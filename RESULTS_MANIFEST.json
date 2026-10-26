@@ -1,0 +1,78 @@
+{
+  "paper": "P3",
+  "normalization": "CSV line endings normalized to LF; scientific checks use exact parsed values",
+  "files": {
+    "results/by_doc_error.csv": {
+      "mode": "lf",
+      "sha256": "3e37b800ae79eb5e04b7c910b9a1d7219af347af6ce7b3ce50d9639c9b4ede7d"
+    },
+    "results/by_lag.csv": {
+      "mode": "lf",
+      "sha256": "1f39bfc3de907a02bff0df2f832ff4f0714bd0bba376976505eecc2bb249f3c4"
+    },
+    "results/by_pattern.csv": {
+      "mode": "lf",
+      "sha256": "ce8a0c5c044163cc70ef269af3eae235e4b3ada1c823733078c22271b7004260"
+    },
+    "results/e1_main.csv": {
+      "mode": "lf",
+      "sha256": "a3cdbb62ddbc4d16ff5a21bac306bc757f96115ec2eb6e3de505902259e7c73b"
+    },
+    "results/e2_learned.csv": {
+      "mode": "lf",
+      "sha256": "4a74c9d07091c2086c638fa327b1855a0256ff251db2089f631d53c09c928423"
+    },
+    "results/e3_misspec.csv": {
+      "mode": "lf",
+      "sha256": "9460c073d8db086b8f065b606e93e2b23ef38ac4fd300bd273ae5bdcfcb3caed"
+    },
+    "results/e4_costs.csv": {
+      "mode": "lf",
+      "sha256": "d43228ed00ed7d3ac56abc22a12a72198feda34ed06983a174775fa2f87054c5"
+    },
+    "results/e5_retry_loss.csv": {
+      "mode": "lf",
+      "sha256": "6ef2ab51f968700d41cae085c562439c51086a0da27fbdd0145bbcfa3a338af4"
+    },
+    "results/e6_heavy_tail.csv": {
+      "mode": "lf",
+      "sha256": "57275df9c4dc8379047c620f4bb2476d0f2113405314e8f5f397d8b9c855c6d8"
+    },
+    "results/llm/dry_run.csv": {
+      "mode": "lf",
+      "sha256": "e9cf6d5294bd60274025dfb2e6652bbd56fa433990ce7e4d06e01e89498665a8"
+    },
+    "results/paired_vs_adaptive.csv": {
+      "mode": "lf",
+      "sha256": "f167c10e5a1b40af05d1162b3a11b2b5bebd765c53517f5568133028adff434b"
+    },
+    "results/premature_pricing.csv": {
+      "mode": "lf",
+      "sha256": "9b22fb9141073910c264b21143ce2200a2f36b1aaa093cde6b0c2d26245d0d73"
+    },
+    "results/revision_contrasts.csv": {
+      "mode": "lf",
+      "sha256": "8bfe6e607d4fd1e2be32c98554be41992bfabc439d3d11e995f6c8a10fa0b153"
+    },
+    "results/revision_risks.csv": {
+      "mode": "lf",
+      "sha256": "a0b9ba0b88abe1f51e02539579e8c0ad313fee78dc888650a4b476f44ef45c3f"
+    },
+    "results/table_cost_sensitivity.csv": {
+      "mode": "lf",
+      "sha256": "10f1a72cbaf3b06e10fed9f97ccdaa5800c49c07d4ed6f81c16bd7a3b9fd651e"
+    },
+    "results/table_learned_prior.csv": {
+      "mode": "lf",
+      "sha256": "194fe78cd04da1b9ee27d95883127a1972393817101a877dee0dc7b5ea733515"
+    },
+    "results/table_main.csv": {
+      "mode": "lf",
+      "sha256": "6601b5dedfa64adb04a33255866c8060876ab068c7a8dd4558475e04fe8440f6"
+    },
+    "results/table_misspec.csv": {
+      "mode": "lf",
+      "sha256": "e63d37050c3201c1b2ea836303d75f781fea3de7c0d2989e4ff9b3582035daa9"
+    }
+  }
+}

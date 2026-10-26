@@ -1,0 +1,107 @@
+{
+  "comparison": "exact parsed content",
+  "files": [
+    {
+      "file": "by_doc_error.csv",
+      "rows": 6,
+      "columns": 5,
+      "equal": true
+    },
+    {
+      "file": "by_lag.csv",
+      "rows": 9,
+      "columns": 5,
+      "equal": true
+    },
+    {
+      "file": "by_pattern.csv",
+      "rows": 15,
+      "columns": 6,
+      "equal": true
+    },
+    {
+      "file": "e1_main.csv",
+      "rows": 40000,
+      "columns": 25,
+      "equal": true
+    },
+    {
+      "file": "e2_learned.csv",
+      "rows": 18000,
+      "columns": 25,
+      "equal": true
+    },
+    {
+      "file": "e3_misspec.csv",
+      "rows": 30000,
+      "columns": 25,
+      "equal": true
+    },
+    {
+      "file": "e4_costs.csv",
+      "rows": 50000,
+      "columns": 26,
+      "equal": true
+    },
+    {
+      "file": "e5_retry_loss.csv",
+      "rows": 40000,
+      "columns": 25,
+      "equal": true
+    },
+    {
+      "file": "e6_heavy_tail.csv",
+      "rows": 18000,
+      "columns": 25,
+      "equal": true
+    },
+    {
+      "file": "paired_vs_adaptive.csv",
+      "rows": 8,
+      "columns": 7,
+      "equal": true
+    },
+    {
+      "file": "premature_pricing.csv",
+      "rows": 30,
+      "columns": 5,
+      "equal": true
+    },
+    {
+      "file": "revision_contrasts.csv",
+      "rows": 18,
+      "columns": 8,
+      "equal": true
+    },
+    {
+      "file": "revision_risks.csv",
+      "rows": 39,
+      "columns": 23,
+      "equal": true
+    },
+    {
+      "file": "table_cost_sensitivity.csv",
+      "rows": 5,
+      "columns": 6,
+      "equal": true
+    },
+    {
+      "file": "table_learned_prior.csv",
+      "rows": 3,
+      "columns": 4,
+      "equal": true
+    },
+    {
+      "file": "table_main.csv",
+      "rows": 10,
+      "columns": 10,
+      "equal": true
+    },
+    {
+      "file": "table_misspec.csv",
+      "rows": 7,
+      "columns": 10,
+      "equal": true
+    }
+  ]
+}

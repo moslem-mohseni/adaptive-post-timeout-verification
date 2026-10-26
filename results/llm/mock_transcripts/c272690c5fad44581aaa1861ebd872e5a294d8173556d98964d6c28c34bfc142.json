@@ -1,0 +1,23 @@
+{
+  "backend": "mock",
+  "model": "mock",
+  "messages": [
+    {
+      "role": "user",
+      "content": "A synthetic write timed out at time 2 after dispatch at 0. It may have been lost, committed, or still be in flight. Choose JSON {\"action\":\"wait|probe|evidence|success|retry|escalate\",\"seconds\":0}. Status reads never falsely report present but can lag; independent evidence sees commits so far. Documentation can be wrong. A success claim before commit is premature even if the write later completes. Costs are abstract, not dollars: {\"dup\": 100.0, \"escalate\": 25.0, \"evidence\": 6.0, \"false_success\": 100.0, \"per_second\": 1.0, \"probe\": 2.0, \"retry\": 1.0}. Contract: {\"idempotency_documented\": false, \"inflight_bound\": null, \"status_lag_mean\": 1.0}"
+    }
+  ],
+  "seed": 70064,
+  "temperature": 0,
+  "max_tokens": 256,
+  "response": "{\"steps\": []}",
+  "raw": {
+    "mock": true
+  },
+  "elapsed_seconds": 0.0,
+  "reserved_usd": 0.0,
+  "prompt_sha256": "c272690c5fad44581aaa1861ebd872e5a294d8173556d98964d6c28c34bfc142",
+  "cached": false,
+  "seed_supported": true,
+  "mock": true
+}

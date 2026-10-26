@@ -1,0 +1,25 @@
+{
+  "full_pipeline_image": "myarticle-p3:20261026-final",
+  "full_image_id": "sha256:4d36d64b178379a3a8b33440b50b79d20e42ff239dd32ae62d5f462aa6f53963",
+  "full_pipeline_exit": 0,
+  "final_reporting_image": "myarticle-p3:20261026-ready",
+  "reporting_image_id": "sha256:97c53a574029a8a08a26251517cd6e3a276c2a987d3eb030c691d1c2d070f2f5",
+  "final_reporting_exit": 0,
+  "reporting_change": "Compact equation notation and two-decimal reporting percentages only; scientific sources identical to full-pipeline container.",
+  "scientific_source_hashes": {
+    "src\\analyze.py": "c4ee2304ef9bb0e541a34981f0520d8d4c78b8b4a9ff7707a2da6e299164eea6",
+    "src\\llm_study\\client.py": "a0e84054ab5d9d13b3ed4d572ce22ee92ed73a8dd0c0e4084242fa8977002a73",
+    "src\\llm_study\\run.py": "fe7258a4a1d62d2f0f35c645581705884e0ca824d0559a02ed7e113767eee34f",
+    "src\\policies.py": "2efd85d870574eca02d70abbe6ff792ee574499f2611d041b1337f8a267d316a",
+    "src\\revision_analysis.py": "b4ff2f45d602968fb122a46d29cec1da8effb0dc1ee74516652e0aae08da844a",
+    "src\\run_experiments.py": "680bf4401e7d1869bb96246bdb220c35e87c48da4daf865b75043343fd7562a3",
+    "src\\stats_utils.py": "bd528dc747ab9cc8adfeb85e6780d0b8119dfcb69587ab7faf4dc60f37dded1a",
+    "src\\world.py": "6dd3c9113d0fa0e410effc46b851b7886b2290aa84cc672a58ac8cf29cd176e7",
+    "requirements.txt": "038f0404bd1ae9bc55196b92fb724a9ab001d4b8933e3a96f3b35dc783d6ecda"
+  },
+  "host_runs": 2,
+  "main_csv_exact": 17,
+  "mock_csv_exact": 1,
+  "pdf_pages": 9,
+  "all_pages_visually_reviewed": true
+}
